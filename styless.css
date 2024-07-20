@@ -72,15 +72,8 @@ section.container{
     background-color: #136c72;
     color: white;
     gap: 1rem;
-    max-height: 30rem;
+    min-height: 10rem;
     
-}
-
-.section3__text{
-    display: flex;
-    width: 80%;
-    margin: 0 auto;
-    max-width: 56.25rem;
 }
 
 .section3__cheap{
